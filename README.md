@@ -21,7 +21,8 @@
 ### Forbidden uses
 
 - Reuploading or sharing files and assets from this collection, even if edited or converted.
-- Producing R-18 content.
+- Using the models to produce R-18 content.
+- Using the models to promote hate speech or discrimination.
 - Using my custom assets for AI training or modifying them with generative AI.
 - Using my custom assets in non-Genshin models.
 
