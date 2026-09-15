@@ -2,11 +2,8 @@
 
 ![Custom Models Collection](./media/img.png)
 
-<!--Desc: The models stored in this Repository combine original HoYoverse assets and my custom work. Currently, it only contains a revamped Albedo model. More custom models will be added in the future ✨-->
-
 > [!IMPORTANT]
 > All models require Goo Engine 4.1.1 or later to be properly displayed.
-
 
 ## Model Distribution Terms of Use
 
