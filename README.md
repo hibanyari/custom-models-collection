@@ -12,6 +12,7 @@
 - Making and sharing renders and animations using models from this collection.
 - Editing my custom assets for renders and animations.
 - Modding models from this collection into game for personal use.
+- Commercial use in monetized YouTube videos and paid animation/render commissions.
 
 **Publicly shared renders and animations must include proper credit.**
 
@@ -22,7 +23,7 @@
 - Using the models to promote hate speech or discrimination.
 - Using my custom assets for AI training or modifying them with generative AI.
 - Using my custom assets in non-Genshin models.
-- Commercial use.
+- Commercial use involving paywalling my files or retail sales of merchandise containing my custom assets.
 
 ## Credits
 
