@@ -23,7 +23,7 @@
 - Using the models to promote hate speech or discrimination.
 - Using my custom assets for AI training or modifying them with generative AI.
 - Using my custom assets in non-Genshin models.
-- Commercial use involving paywalling my files or retail sales of merchandise containing my custom assets.
+- Commercial use involving selling or paywalling my files and assets, using them in advertisements or for retail sales of merchandise.
 
 ## Credits
 
